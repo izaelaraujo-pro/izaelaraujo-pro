@@ -21,7 +21,7 @@ Venho de uma base em desenvolvimento full-stack, e estou expandindo meus horizon
 [EM PRODUÇÃO, EM BREVE ESTARÃO DESCRITOS, OLHE MEUS REPOSITÓRIOS :) ]
 
 ## CONTATO
-- :email: E-mail: izael.developer@proton.me
+- :email: E-mail: izaelaraujo.pro@gmail.com
 - :office: LinkedIn: https://www.linkedin.com/in/izael-ara%C3%BAjo-6142022a8/
 
 ***
